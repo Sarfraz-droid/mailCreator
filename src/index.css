@@ -1,0 +1,12 @@
+*{
+    text-align: center;
+}
+
+.btn{
+  padding: 10px;
+  background: #2196F3;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;  
+}
